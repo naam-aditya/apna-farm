@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559767236528",
+    "project_id": "farm-db0cd",
+    "storage_bucket": "farm-db0cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559767236528:android:dbb6eb701ae6dc7b223075",
+        "android_client_info": {
+          "package_name": "com.example.apna_farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQoeNjFU2-msQP-QWXWPXUO8uU5F90kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
